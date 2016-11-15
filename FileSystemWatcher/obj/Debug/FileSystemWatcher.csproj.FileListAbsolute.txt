@@ -3,7 +3,6 @@ F:\git\Source\Repos\EnhFileSystemWatcherSync\FileSystemWatcher\obj\Debug\FileSys
 F:\git\Source\Repos\EnhFileSystemWatcherSync\FileSystemWatcher\obj\Debug\FileSystemWatcher.pdb
 F:\git\Source\Repos\EnhFileSystemWatcherSync\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe
 F:\git\Source\Repos\EnhFileSystemWatcherSync\FileSystemWatcher\bin\Debug\FileSystemWatcher.pdb
-F:\git\Source\Repos\EnhFileSystemWatcherSync\FileSystemWatcher\obj\Debug\FileSystemWatcher.csprojResolveAssemblyReference.cache
 F:\git\Source\Repos\EnhFileSystemWatcherSync\FileSystemWatcher\obj\Debug\FileSystemWatcher.Form1.resources
 F:\git\Source\Repos\EnhFileSystemWatcherSync\FileSystemWatcher\obj\Debug\FileSystemWatcher.Properties.Resources.resources
 F:\git\Source\Repos\EnhFileSystemWatcherSync\FileSystemWatcher\obj\Debug\FileSystemWatcher.csproj.GenerateResource.Cache

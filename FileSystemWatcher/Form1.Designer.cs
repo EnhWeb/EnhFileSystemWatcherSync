@@ -57,8 +57,8 @@
             // 
             this.myWatcher.EnableRaisingEvents = true;
             this.myWatcher.SynchronizingObject = this;
-            this.myWatcher.Renamed += new System.IO.RenamedEventHandler(this.myWatcher_Renamed);
             this.myWatcher.Changed += new System.IO.FileSystemEventHandler(this.myWatcher_Changed);
+            this.myWatcher.Renamed += new System.IO.RenamedEventHandler(this.myWatcher_Renamed);
             // 
             // lblMessage
             // 
@@ -153,6 +153,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.Text = "镜像服务器文件实时同步程序";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.myWatcher)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
